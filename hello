@@ -1,4 +1,0 @@
-
-for k in rang(5):
-	print k
-	
